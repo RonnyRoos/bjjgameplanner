@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "bjjgameplanner": {
+      "hosting": {
+        "bjjgameplanner": [
+          "bjjgameplanner"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "bjjgameplanner"
+  }
+}
